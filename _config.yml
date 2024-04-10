@@ -9,10 +9,10 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://owikle.github.io 
+url: https://gustavolsj.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /cb-multilingual-again
+baseurl: /coleccion-de-estudio
 # location of code, the full url to your github repository
 source-code: https://github.com/owikle/cb-multilingual-again
 
@@ -20,25 +20,24 @@ source-code: https://github.com/owikle/cb-multilingual-again
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Multilingual
+title: Colección de estudio para conservación
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: owikle
+author: gustavolsj
 
 # Set up site language ids and display names. First language will be the site's default language
 site_languages:
-  - lang_id: en
-    lang_display: English
   - lang_id: es
     lang_display: Español
     lang_site_title: CollectionBuilder-Multilingüe
     lang_site_tagline: una plantilla para crear exhibiciones digitales simples en varios idiomas
     lang_site_description: "CollectionBuilder-GH es una plantilla para crear pequeñas exhibiciones de colecciones digitales en páginas de GitHub diseñadas para enseñar destrezas de bibliotecología digital"
-
+  - lang_id: en
+    lang_display: English
 # Set paths, language ids, and permalinks for pages
 defaults:
   -
@@ -58,7 +57,7 @@ defaults:
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: histhea
+metadata: metadata-col-de-estudio
 
 ##########
 # Site/Organization Branding 
