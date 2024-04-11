@@ -14,26 +14,26 @@ url: https://gustavolsj.github.io
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /coleccion-de-estudio
 # location of code, the full url to your github repository
-source-code: https://github.com/gustavolsj/coleccion-de-estudio
+source-code: https://github.com/owikle/cb-multilingual-again
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Colección de estudio para conservación
+title: CollectionBuilder-Multilingual
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: gustavolsj
+author: owikle
 
 # Set up site language ids and display names. First language will be the site's default language
 site_languages:
-   - lang_id: en
+  - lang_id: en
     lang_display: English
-   - lang_id: es
+  - lang_id: es
     lang_display: Español
     lang_site_title: CollectionBuilder-Multilingüe
     lang_site_tagline: una plantilla para crear exhibiciones digitales simples en varios idiomas
@@ -58,13 +58,13 @@ defaults:
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: metadata-template
+metadata: histhea
 
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Gustavo Lozano"
+organization-name: "Arte Público Press"
 organization-link: https://artepublicopress.com/
 organization-logo-banner: /assets/img/APP_Logo_2019.png
 organization-logo-nav: /assets/img/app_logo_white_sm.png
