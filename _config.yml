@@ -25,7 +25,7 @@ title: Colección de estudio
 tagline: Imágenes utiles para la identificación de  fotografías
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Un conjunto de imagenes que ilustran los procesos fotograficos más comunes que esposible encontrar en los archivos. "
+description: "Un conjunto de imagenes que ilustran los procesos fotograficos más comunes que esposible encontrar en los archivos"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: gustavolsj
 
@@ -35,9 +35,9 @@ site_languages:
     lang_display: English
   - lang_id: es
     lang_display: Español
-    lang_site_title: CollectionBuilder-Multilingüe
-    lang_site_tagline: una plantilla para crear exhibiciones digitales simples en varios idiomas
-    lang_site_description: "CollectionBuilder-GH es una plantilla para crear pequeñas exhibiciones de colecciones digitales en páginas de GitHub diseñadas para enseñar destrezas de bibliotecología digital"
+    lang_site_title: Colección de estudio
+    lang_site_tagline: Imágenes utiles para la identificación de  fotografías
+    lang_site_description: "Un conjunto de imagenes que ilustran los procesos fotograficos más comunes que esposible encontrar en los archivos"
 
 # Set paths, language ids, and permalinks for pages
 defaults:
