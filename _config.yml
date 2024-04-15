@@ -20,14 +20,14 @@ source-code: https://github.com/owikle/cb-multilingual-again
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Multilingual
+title: Colección de estudio 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Imágenes utiles para la identificación de  fotografías
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Un conjunto de imagenes que ilustran los procesos fotograficos más comunes que esposible encontrar en los archivos. "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: owikle
+author: gustavolsj
 
 # Set up site language ids and display names. First language will be the site's default language
 site_languages:
@@ -64,10 +64,10 @@ metadata: metadata-col-estudio
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Arte Público Press"
-organization-link: https://artepublicopress.com/
-organization-logo-banner: /assets/img/APP_Logo_2019.png
-organization-logo-nav: /assets/img/app_logo_white_sm.png
+#organization-name: "Arte Público Press"
+#organization-link: https://artepublicopress.com/
+#organization-logo-banner: /assets/img/APP_Logo_2019.png
+#organization-logo-nav: /assets/img/app_logo_white_sm.png
 
 ##########
 # GOOGLE SERVICES [optional!]
